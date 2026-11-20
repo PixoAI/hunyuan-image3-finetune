@@ -2,11 +2,11 @@
 
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
-[![GitHub stars](https://img.shields.io/github/stars/PhotonAISG/hunyuan-image3-finetune.svg?style=social&label=Star)](https://github.com/PhotonAISG/hunyuan-image3-finetune)
-[![GitHub forks](https://img.shields.io/github/forks/PhotonAISG/hunyuan-image3-finetune.svg?style=social&label=Fork)](https://github.com/PhotonAISG/hunyuan-image3-finetune/fork)
-[![Project page](https://img.shields.io/badge/project_page-photonaisg.github.io-5b4bf5.svg)](https://photonaisg.github.io/hunyuan-image3-finetune/)
+[![GitHub stars](https://img.shields.io/github/stars/PixoAI/hunyuan-image3-finetune.svg?style=social&label=Star)](https://github.com/PixoAI/hunyuan-image3-finetune)
+[![GitHub forks](https://img.shields.io/github/forks/PixoAI/hunyuan-image3-finetune.svg?style=social&label=Fork)](https://github.com/PixoAI/hunyuan-image3-finetune/fork)
+[![Project page](https://img.shields.io/badge/project_page-pixoai.github.io-5b4bf5.svg)](https://pixoai.github.io/hunyuan-image3-finetune/)
 
-📖 **Project page: [photonaisg.github.io/hunyuan-image3-finetune](https://photonaisg.github.io/hunyuan-image3-finetune/)** — quick start, hardware requirements, data formats and the released adapters, in a browsable form.
+📖 **Project page: [pixoai.github.io/hunyuan-image3-finetune](https://pixoai.github.io/hunyuan-image3-finetune/)** — quick start, hardware requirements, data formats and the released adapters, in a browsable form.
 
 This repository contains training scripts for fine-tuning HunyuanImage-3.0 models. Designed to work with the official model at: https://github.com/Tencent-Hunyuan/HunyuanImage-3.0.git
 
@@ -57,8 +57,8 @@ Unified vision-language models capable of both understanding and generation are 
 ## 👥 Contributors
 This repo is developed and maintained by the [Pixo](https://pixo.video) team — see [About Pixo](#-about-pixo). For inquiries, write to [official@pixo.video](mailto:official@pixo.video), or reach out to [yangzhang@u.nus.edu](mailto:yangzhang@u.nus.edu).
 
-<a href="https://github.com/PhotonAISG/hunyuan-image3-finetune/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=PhotonAISG/hunyuan-image3-finetune" />
+<a href="https://github.com/PixoAI/hunyuan-image3-finetune/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=PixoAI/hunyuan-image3-finetune" />
 </a>
 
 
@@ -593,7 +593,7 @@ Generative image and video models are the core of that pipeline, and adapting th
 
 - 🌐 Website — [pixo.video](https://pixo.video)
 - 🤗 Hugging Face — [pixosg](https://huggingface.co/pixosg)
-- 💻 GitHub — [PhotonAISG](https://github.com/PhotonAISG)
+- 💻 GitHub — [PixoAI](https://github.com/PixoAI)
 - ✉️ Contact — [official@pixo.video](mailto:official@pixo.video)
 
 ## 📝 License
@@ -611,7 +611,7 @@ If you use these training scripts for research, please cite this repository:
   year = {2025},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/PhotonAISG/hunyuan-image3-finetune}}
+  howpublished = {\url{https://github.com/PixoAI/hunyuan-image3-finetune}}
 }
 ```
 
